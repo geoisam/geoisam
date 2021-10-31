@@ -18,7 +18,9 @@ I'm Joanthan. An addlehead.
 
 &ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=s757129)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&hide_border=true)](https://github.com/s757129)
+<a href="https://github.com/s757129?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&hide_border=true" />
+</a>
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s757129&theme=xcode)](https://github.com/s757129)
 
