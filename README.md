@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-I'm Joanthan. An addlehead.
-
 <a href="https://github.com/s757129?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&hide_border=true" />
 </a>
+
+🤡I'm Joanthan. An addlehead.
 
 🌱 I’m currently learning:
 
