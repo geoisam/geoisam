@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&hide_border=true" />
 </a>
 
-I'm 🤡. I'm Jonathan.
+I'm 🤡. I'm Jonathan. I'm 废青森.
 
 🌱 I’m currently learning:
 
