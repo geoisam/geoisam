@@ -1,7 +1,7 @@
 ### Hi there!! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="26"/>
 
 <a href="https://github.com/s757129?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&hide=contribs&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=fc5c7d,6a82fb,05dfd7&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=fc5c7d,6a82fb,05dfd7&include_all_commits=true" />
 </a>
 
 I'm 🤡. I'm Jonathan. I'm 废青森.
