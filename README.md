@@ -2,9 +2,9 @@
 
 <a href="https://github.com/s757129?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=fc5c7d,6a82fb,05dfd7&include_all_commits=true" />
-</a><br/>
+</a>  
 
-I'm 🤡. I'm Jonathan. I'm 废青森.
+🤡 I'm Jonathan. I'm 废青森.
 
 🌱 I’m currently learning:
 
