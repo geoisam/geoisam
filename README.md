@@ -5,7 +5,7 @@
 </a>
 <br>
   
-🤡 I'm Jonathan. I'm 废青森.
+🤡 I'm Jonathan. 我是废青森。
 
 🌱 I’m currently learning:
 
