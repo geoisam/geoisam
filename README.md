@@ -5,7 +5,7 @@
 </a>
 <br>
   
-🤡 俺係**柒伍七**哈哈！！
+🤡 俺係 **柒伍七** 哈哈！！
 
 🌱 I’m currently learning:
 
