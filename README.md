@@ -15,7 +15,7 @@
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=fff)
 
-&ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Deepin](https://img.shields.io/badge/-Deepin-0066FF?style=flat-square&logo=Deepin&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
+&ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Deepin](https://img.shields.io/badge/-Deepin-2088FF?style=flat-square&logo=Deepin&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
 
 &ensp;&ensp;&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=fff) 
 
