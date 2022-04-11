@@ -1,1 +1,1 @@
-<center><center><img src="https://emojis.slackmojis.com/emojis/images/1643515247/12659/blob_rainbow.png" width="250"/></center>
+<center><div><img src="https://emojis.slackmojis.com/emojis/images/1643515247/12659/blob_rainbow.png" width="250"/></div></center>
