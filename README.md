@@ -5,6 +5,6 @@
 </p>
 <div align="center">
 	<a href="https://s757129.github.io"> 
-		<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true" />
+		<img width="78%" height="auto" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true" />
 	</a>
 </div>
