@@ -1,1 +1,7 @@
-<center><div><img src="https://emojis.slackmojis.com/emojis/images/1643515247/12659/blob_rainbow.png" width="250"/></div></center>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif" width="99"/>
