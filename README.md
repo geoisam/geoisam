@@ -12,7 +12,7 @@
 
 > **Built for record the good life** `在此记录美好生活`
 
-```bash
+```
 · 江湖路远
 · 就此别过
 · 山高水长
