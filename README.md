@@ -8,7 +8,7 @@
 | <a href="https://s757129.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=s757129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://s757129.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s757129&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Hi there! 我是柒伍七.
+### Hi there!
 
 > **Built for record the good life** `在此记录美好生活`
 
