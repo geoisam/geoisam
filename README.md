@@ -10,7 +10,7 @@
 
 ### Hi there!
 
-> **Built for record the good life** `在此记录美好生活`
+> **Built for recording the good life** `在此记录美好生活`
 
 ```
 · 江湖路远
