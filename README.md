@@ -10,7 +10,7 @@
 
 # Hi! 我是柒伍七.
 
-> **Record the good life** `记录美好生活`
+> **Built for record the good life** `在此记录美好生活`
 
 ```bash
 · 江湖路远
