@@ -10,7 +10,7 @@
 
 ### Hi there!
 
-> **Built for recording the good life** `在此记录美好生活`
+> **Built for recording the good time** [`biu`](https://s757129.github.io)
 
 - 江湖路远
 - 就此别过
