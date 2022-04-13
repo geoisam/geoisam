@@ -10,9 +10,9 @@
 
 ### Hi there!
 
-> **Built for recording the good time** [`💖`](https://s757129.github.io)
+> **Built for recording the good time.** [`💖`](https://s757129.github.io)
 
-+ 我是**柒伍七**
++ 我是**柒伍七**🦧
 	- 江湖路远
 	- 就此别过
 	- 山高水长
