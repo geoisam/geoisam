@@ -1,3 +1,2 @@
-|<a href="https://geoi6sam1.github.io"><img src="https://github-readme-stats.vercel.app/api?username=geoi6sam1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=cn" /></a>|<a href="https://geoi6sam1.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoi6sam1&hide_title=true&hide_border=true&layout=compact&locale=cn" /></a>|
-|:---:|:---:|
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoi6sam1&show_icons=true&count_private=true&include_all_commits=true&line_height=27&hide_border=true&locale=cn"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoi6sam1&hide_langs_below=1&theme=default&line_height=29&hide_border=true&layout=compact&langs_count=6&locale=cn"></img> 
