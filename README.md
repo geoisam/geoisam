@@ -2,11 +2,8 @@
 
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=218bff&width=500&lines=Hi%2C+I'm+Pun+Geoisam+%F0%9F%91%8B+"></img>
 
-<table><tr><td><a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=geoisam&show_icons=true&count_private=true&include_all_commits=true&line_height=27&hide_border=true&locale=cn"></img>
-</a></td><td><a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoisam&hide_langs_below=1&theme=default&line_height=29&hide_border=true&layout=compact&langs_count=6&locale=cn"></img> 
-</a></td></tr></table>
 
 <img align="center" src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,c"></img>
 
