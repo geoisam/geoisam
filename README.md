@@ -9,4 +9,4 @@
 
 <img align="center" src="https://skillicons.dev/icons?i=jquery,bootstrap,wordpress,nodejs,npm,vue,react,kotlin,flutter"></img>
 
-<img align="center" src="https://skillicons.dev/icons?i=github,vscode,ps,androidstudio,idea,git,githubactions,powershell,cloudflare"></img>
+<img align="center" src="https://skillicons.dev/icons?i=github,vscode,androidstudio,idea,pycharm,git,githubactions,powershell,cloudflare"></img>
