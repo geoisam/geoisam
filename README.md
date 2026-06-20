@@ -8,19 +8,23 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoisam&hide_langs_below=1&line_height=32&layout=compact&langs_count=6&hide_title=true&hide_border=true"></img>
 --!>
 
-<img align="center" src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,go"></img>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,go"></img>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jquery,bootstrap,wordpress,nodejs,npm,vue,react,kotlin,flutter"></img>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,idea,pycharm,git,githubactions,powershell,cloudflare"></img>
+</p>
 
-<img align="center" src="https://skillicons.dev/icons?i=jquery,bootstrap,wordpress,nodejs,npm,vue,react,kotlin,flutter"></img>
-
-<img align="center" src="https://skillicons.dev/icons?i=github,vscode,androidstudio,idea,pycharm,git,githubactions,powershell,cloudflare"></img>
-
-<table>
+<table align="center">
 <tr>
 <td><a>
-<img src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/wechat.jpg">
+<img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/wechat.jpg">
 </a></td>
 <td><a>
-<img src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/alipay.jpg">
+<img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/alipay.jpg">
 </a></td>
 </tr>
 </table>
