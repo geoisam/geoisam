@@ -1,8 +1,10 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FB7299&center=true&vCenter=true&multiline=true&random=true&width=666&height=99&lines=I%E2%80%99m+fine.+Thank+you.+And+you%3F"></img>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FB7299&center=true&vCenter=true&width=666&lines=I%E2%80%99m+fine.+Thank+you.+And+you%3F"></img>
 </p>
+
+<br>
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=geoisam&show_icons=true&count_private=true&include_all_commits=true&line_height=32&count_private=true&hide=contribs&hide_title=true&hide_border=true"></img>
