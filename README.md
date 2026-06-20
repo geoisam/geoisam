@@ -1,7 +1,8 @@
 <br>
 
-<!--<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=218bff&width=500&lines=Hi%2C+I'm+Pun+Geoisam+%F0%9F%91%8B+"></img>
---!>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FB7299&center=true&vCenter=true&multiline=true&random=true&width=666&height=99&lines=I%E2%80%99m+fine.+Thank+you.+And+you%3F"></img>
+</p>
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=geoisam&show_icons=true&count_private=true&include_all_commits=true&line_height=32&count_private=true&hide=contribs&hide_title=true&hide_border=true"></img>
@@ -18,13 +19,9 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,idea,pycharm,git,githubactions,powershell,cloudflare"></img>
 </p>
 
-<table align="center">
-<tr>
-<td><a>
+<br>
+
+<p align="center">
 <img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/wechat.jpg">
-</a></td>
-<td><a>
 <img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/alipay.jpg">
-</a></td>
-</tr>
-</table>
+</p>
