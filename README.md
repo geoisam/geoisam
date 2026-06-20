@@ -8,7 +8,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoisam&hide_langs_below=1&line_height=32&layout=compact&langs_count=6&hide_title=true&hide_border=true"></img>
 --!>
 
-<img align="center" src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,dart"></img>
+<img align="center" src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,go"></img>
 
 <img align="center" src="https://skillicons.dev/icons?i=jquery,bootstrap,wordpress,nodejs,npm,vue,react,kotlin,flutter"></img>
 
