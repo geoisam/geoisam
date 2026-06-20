@@ -13,3 +13,14 @@
 <img align="center" src="https://skillicons.dev/icons?i=jquery,bootstrap,wordpress,nodejs,npm,vue,react,kotlin,flutter"></img>
 
 <img align="center" src="https://skillicons.dev/icons?i=github,vscode,androidstudio,idea,pycharm,git,githubactions,powershell,cloudflare"></img>
+
+<table>
+<tr>
+<td><a>
+<img src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/wechat.jpg">
+</a></td>
+<td><a>
+<img src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/alipay.jpg">
+</a></td>
+</tr>
+</table>
