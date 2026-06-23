@@ -6,11 +6,6 @@
 
 <br>
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoisam&show_icons=true&count_private=true&include_all_commits=true&line_height=32&count_private=true&hide=contribs&hide_title=true&hide_border=true"></img>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoisam&hide_langs_below=1&line_height=32&layout=compact&langs_count=6&hide_title=true&hide_border=true"></img>
---!>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,go"></img>
 </p>
@@ -24,6 +19,15 @@
 <br>
 
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoisam&show_icons=true&count_private=true&include_all_commits=true&line_height=32&count_private=true&hide=contribs&hide_title=true&hide_border=true"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoisam&hide_langs_below=1&line_height=32&layout=compact&langs_count=8&hide_title=true&hide_border=true"></img>
+</p>
+
+<br>
+
+<!--
+<p align="center">
 <img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/wechat.jpg">
 <img width="300" src="https://raw.githubusercontent.com/geoisam/FuckScripts/refs/heads/main/img/alipay.jpg">
 </p>
+--!>
