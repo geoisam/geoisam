@@ -3,7 +3,7 @@
 "update":
 {
 "ver":"0.1.3",
-"code":"26071201",
+"code":"26071101",
 "note":"【新增】小蓝系列应用邀请配置\n【修复】加载配置API链接错误\n【优化】顶栏图标按钮样式\n【优化】邀请逻辑减少冗余代码",
 "down":"https://share.feijipan.com/s/f9dwRFYe"
 },
